@@ -7,3 +7,5 @@ Started working on this project just now from the beginning, while walking throu
 * Copied the SSH link copied this repository inside the repos folder
 * Accessed the readme file through the bash terminal to write down this process and keep writing my progress on the project itself.
 * Proceeded with further setting Git and commitment settings
+* Created the index.html file into the repository folder
+* Added the usual boilerplate HTML at the beginning of the file
