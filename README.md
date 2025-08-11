@@ -31,4 +31,9 @@ Started working on this project just now from the beginning, while walking throu
 * Added time description which later put into a comment just to finish the project and later release it visibly
 * Added an unordered list of the ingredients
 * Added an ordered list of the steps to prepare the dish
+* Added an author description under the image for pepper steak
+* Finished the third iteration
+* Started the fourth iteration
+* Created a new recipe html file called babybackribs
+* Added HTML boilerplate into the file
 * 
