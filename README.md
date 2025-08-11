@@ -36,4 +36,10 @@ Started working on this project just now from the beginning, while walking throu
 * Started the fourth iteration
 * Created a new recipe html file called babybackribs
 * Added HTML boilerplate into the file
-* 
+* Added header for the Baby Back Ribs
+* Added image and alt description, for readers on the Baby Back Ribs page
+* Added figcaption on the image to address the author
+* Added description about the Baby Back Ribs in a short paragraph, under the image
+* Added the ingredients in an unordered list
+* Created one more page for the Mac and Cheese recipe, in which added all the previous features that all the other recipes have.
+* Finished the fourth iteration.
