@@ -41,11 +41,28 @@ This repository contains a collection of recipe pages built with HTML, featuring
 - Added short description, ingredients list, and steps.
 - Created `macandcheese.html` with all previous features.
 
-## 📸 Preview
-*![alt text](image.png)![alt text](image-1.png)![alt text](image-2.png)![alt text](image-3.png)*
+## 📸 Website History Preview
+
+<details>
+  <summary><b>1st Installment</b></summary>
+
+  <p align="center">
+    <figcaption><b>📜 Main Page</b></figcaption>
+    <img src="readmeImages/image.png" width="250" alt="Main Page">
+    <figcaption><b>🥩 Pepper Steak</b></figcaption>
+    <img src="readmeImages/image-1.png" width="250" alt="Pepper Steak">
+    <figcaption><b>🩻 Baby Back Ribs</b></figcaption>
+    <img src="readmeImages/image-2.png" width="250" alt="Baby Back Ribs">
+    <figcaption><b>🫕 Mac and Cheese</b></figcaption>
+    <img src="readmeImages/image-3.png" width="250" alt="Mac and Cheese">
+  </p>
+</details>
+
 
 ## 🛠️ Technologies Used
 - HTML5
+- CSS
+- Markdown
 - Git & GitHub
 
 ## 📚 Lessons Learned
