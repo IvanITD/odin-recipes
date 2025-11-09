@@ -1,0 +1,76 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.home_Button {
+    margin-left: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: #292524;
+    font-size: 18px;
+    border: 2px solid #292524;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #D6D3D1;
+    color:#292524;
+    width: auto;
+    height: auto;
+    border: 5px solid grey;
+    border-radius: 5px;
+}
+
+.mac_and_cheese {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    border: 5px solid #292524;
+    padding: 10px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 5px;;
+}
+
+.fig {
+    font-size: 14px;
+    color: #555555;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.image_macandcheese {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #292524;
+    border-radius: 10px;
+}
+
+.description, .ingredients, .steps {
+    margin-left: 30px;
+    margin-bottom: 10px;
+    margin-left: 7px;
+    font-size: 24px;
+    color:#292524
+}
+
+ul, ol {
+    margin-left: 30px;
+}
+
+ol {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-left: 15px;
+}
