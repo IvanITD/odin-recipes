@@ -1,0 +1,24 @@
+.recipes {
+    text-align: center;
+    margin-top: 20px;
+    list-style-type: none;
+    
+}
+.recipeOne { /*Pepper Steak*/
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+.recipeTwo { /*Baby Back Ribs*/
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    margin: 10px;
+}
+
+.recipeThree { /*Mac and Cheese*/
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
