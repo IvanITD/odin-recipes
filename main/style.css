@@ -1,13 +1,4 @@
-*,
-*::before
-*::after {
-	box-sizing: border-box;
-}
 
-* {
-	margin: 0px;
-	padding: 0px;
-}
 
 body {
     box-sizing: border-box;
@@ -22,21 +13,12 @@ body {
     border-radius: 5px;
 }
 
-h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-weight: 700;
-    border: 5px solid #292524;
-    padding: 10px;
-    margin: 20px;
-    text-align: center;
-    border-radius: 5px;
-}
-
 .odin-recipes {
-    text-align: center;
+    font-family: 'Agbalumo';font-size: 50px;
+    font-weight: 700;
+    padding: 10px;
+    margin: 20px;    text-align: center;
     color: #292524;
-    margin: 20px;
-    font-size: 36px;
 }
 .home_images {
     display: flex;
@@ -70,7 +52,7 @@ h1 {
     display: inline-block;
     text-decoration: none;
     color: #292524;
-    font-size: 18px;
+    font-family: 'Akaya Kanadaka';font-size: 18px;
     border: 2px solid #292524;
     padding: 5px 10px;
     border-radius: 5px;
@@ -82,7 +64,7 @@ h1 {
     display: inline-block;
     text-decoration: none;
     color: #292524;
-    font-size: 18px;
+    font-family: 'Akaya Kanadaka';font-size: 18px;
     border: 2px solid #292524;
     padding: 5px 10px;
     border-radius: 5px;
@@ -94,8 +76,14 @@ h1 {
     display: inline-block;
     text-decoration: none;
     color: #292524;
-    font-size: 18px;
+    font-family: 'Akaya Kanadaka';font-size: 18px;
     border: 2px solid #292524;
     padding: 5px 10px;
     border-radius: 5px;
+}
+
+.pepper-steak:hover, .baby-back-ribs:hover, .mac-and-cheese:hover {
+    background-color: #292524;
+    color: #D6D3D1;
+
 }
