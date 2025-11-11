@@ -1,24 +1,32 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-
 body {
     box-sizing: border-box;
     background-color: #D6D3D1;
-    border: 5px solid grey;
     color:#292524;
     width: auto;
     height: auto;
+    padding-bottom: 610px;
+    border: 5px solid grey;
     border-radius: 5px;
 }
 
-.odin-recipes {
+h1 {
     font-family: 'Agbalumo';font-size: 50px;
     font-weight: 700;
     padding: 10px;
-    margin: 20px;    text-align: center;
-    color: #292524;
+    margin: 20px;
+    text-align: center;
+}
+
+.Welcome {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: 'Akaya Kanadaka';font-size: 25px;
+    background-color: #99908d;
+    color: #D6D3D1;
+    padding: 10px;
+    margin: 0 20px 20px 20px;
+    border-radius: 5px;
 }
 
 .image_peppersteak, .image_babybackribs, .image_macandcheese {
