@@ -58,6 +58,21 @@ This repository contains a collection of recipe pages built with HTML, featuring
   </p>
 </details>
 
+<details>
+  <summary><b>2nd Installment</b></summary>
+
+  <p align="center">
+    <figcaption><b>📜 Main Page</b></figcaption>
+    <img src="readmeImages/2ndInstallment/odinRecipe1.png" width="250" alt="Main Page">
+    <figcaption><b>🥩 Pepper Steak</b></figcaption>
+    <img src="readmeImages/2ndInstallment/odinRecipe2.png" width="250" alt="Pepper Steak">
+    <figcaption><b>🩻 Baby Back Ribs</b></figcaption>
+    <img src="readmeImages/2ndInstallment/odinRecipe3.png" width="250" alt="Baby Back Ribs">
+    <figcaption><b>🫕 Mac and Cheese</b></figcaption>
+    <img src="readmeImages/2ndInstallment/odinRecipe4.png" width="250" alt="Mac and Cheese">
+  </p>
+</details>
+
 
 ## 🛠️ Technologies Used
 - HTML5
