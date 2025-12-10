@@ -48,13 +48,13 @@ This repository contains a collection of recipe pages built with HTML, featuring
 
   <p align="center">
     <figcaption><b>📜 Main Page</b></figcaption>
-    <img src="readmeImages/image.png" width="250" alt="Main Page">
+    <img src="readmeImages/1stInstallment/image.png" width="250" alt="Main Page">
     <figcaption><b>🥩 Pepper Steak</b></figcaption>
-    <img src="readmeImages/image-1.png" width="250" alt="Pepper Steak">
+    <img src="readmeImages/1stInstallment/image-1.png" width="250" alt="Pepper Steak">
     <figcaption><b>🩻 Baby Back Ribs</b></figcaption>
-    <img src="readmeImages/image-2.png" width="250" alt="Baby Back Ribs">
+    <img src="readmeImages/1stInstallment/image-2.png" width="250" alt="Baby Back Ribs">
     <figcaption><b>🫕 Mac and Cheese</b></figcaption>
-    <img src="readmeImages/image-3.png" width="250" alt="Mac and Cheese">
+    <img src="readmeImages/1stInstallment/image-3.png" width="250" alt="Mac and Cheese">
   </p>
 </details>
 
